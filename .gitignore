@@ -1,0 +1,6 @@
+.env
+fraud-detect/
+mlruns/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
